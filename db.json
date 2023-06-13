@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "storeID": 1234414,
+        "storeName": "McDonalds",
+        "storeNumber": 991293912931,
+        "storeAddress": {
+            "locationID": 123123,
+            "locationCountry": "Sweden",
+            "locationState": "Stockholms Län",
+            "locationCity": "Stockholm",
+            "locationStreet": "Hornsgatan 88",
+            "locationZipcode": "118 21"
+        }
+    },
+    {
+        "id": 2,
+        "storeID": 9876543,
+        "storeName": "Burger King",
+        "storeNumber": 912345678912,
+        "storeAddress": {
+            "locationID": 456456,
+            "locationCountry": "USA",
+            "locationState": "California",
+            "locationCity": "Los Angeles",
+            "locationStreet": "Sunset Blvd",
+            "locationZipcode": "90046"
+        }
+    },
+    {
+        "id": 3,
+        "storeID": 1111111,
+        "storeName": "Subway",
+        "storeNumber": 777777777777,
+        "storeAddress": {
+            "locationID": 222222,
+            "locationCountry": "Australia",
+            "locationState": "New South Wales",
+            "locationCity": "Sydney",
+            "locationStreet": "George St",
+            "locationZipcode": "2000"
+        }
+    },
+    {
+        "id": 4,
+        "storeID": 9999999,
+        "storeName": "Pizza Hut",
+        "storeNumber": 888888888888,
+        "storeAddress": {
+            "locationID": 444444,
+            "locationCountry": "Canada",
+            "locationState": "Ontario",
+            "locationCity": "Toronto",
+            "locationStreet": "Yonge St",
+            "locationZipcode": "M5B 2C3"
+        }
+    },
+    {
+        "id": 5,
+        "storeID": 5678901,
+        "storeName": "Starbucks",
+        "storeNumber": 789012345678,
+        "storeAddress": {
+            "locationID": 789789,
+            "locationCountry": "United Kingdom",
+            "locationState": "England",
+            "locationCity": "London",
+            "locationStreet": "Oxford Street",
+            "locationZipcode": "W1D 1AS"
+        }
+    },
+    {
+        "id": 6,
+        "storeID": 2468135,
+        "storeName": "KFC",
+        "storeNumber": 135792468013,
+        "storeAddress": {
+            "locationID": 135135,
+            "locationCountry": "France",
+            "locationState": "Île-de-France",
+            "locationCity": "Paris",
+            "locationStreet": "Champs-Élysées",
+            "locationZipcode": "75008"
+        }
+    },
+    {
+        "id": 7,
+        "storeID": 4444444,
+        "storeName": "Taco Bell",
+        "storeNumber": 222222222222,
+        "storeAddress": {
+            "locationID": 777777,
+            "locationCountry": "Mexico",
+            "locationState": "Mexico City",
+            "locationCity": "Mexico City",
+            "locationStreet": "Avenida Insurgentes",
+            "locationZipcode": "06100"
+        }
+    },
+    {
+        "id": 8,
+        "storeID": 309429342,
+        "storeName": "Apoteket",
+        "storeNumber": 123123123123,
+        "storeAddress": {
+            "locationID": 123123,
+            "locationCountry": "Sverige",
+            "locationState": "Västmanland",
+            "locationCity": "Västerås",
+            "locationStreet": "Storgatan 45",
+            "locationZipcode": "722 20"
+        }
+    }
+]
